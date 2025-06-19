@@ -1,0 +1,84 @@
+
+ARCHETYPE DESCRIPTIONS
+
+[Synthesizer]
+Strategy: Integrate complexity and unify opposites.
+Core Drive: Making sense of contradictions through systems of understanding.
+Strength: Deep insight, multidimensional thinking, symbolic fluency.
+Shadow: Paralysis by nuance, difficulty taking decisive action.
+
+[Architect]
+Strategy: Build structures — logical, physical, or social.
+Core Drive: Mastery through design and optimization.
+Strength: Stability, technical clarity, long-term planning.
+Shadow: Over-rationalization, emotional disconnect.
+
+[Trickster]
+Strategy: Break patterns, expose assumptions, inject disruption.
+Core Drive: Truth through inversion and tension.
+Strength: Creative reframing, catalytic energy, resistance to conformity.
+Shadow: Cynicism, chaos, manipulation.
+
+[Weaver]
+Strategy: Build relational ecosystems and shared emotional space.
+Core Drive: Belonging and cohesion.
+Strength: Emotional attunement, community resilience, gentle power.
+Shadow: Enmeshment, people-pleasing, loss of identity.
+
+[Keeper]
+Strategy: Preserve tradition, memory, and continuity.
+Core Drive: Stability rooted in the past.
+Strength: Loyalty, cultural wisdom, ritual clarity.
+Shadow: Rigidity, resistance to change, nostalgia as escape.
+
+[Herald]
+Strategy: Share, provoke, or awaken through communication.
+Core Drive: Catalysis through voice and signal.
+Strength: Articulation, influence, truth-telling.
+Shadow: Shallow provocation, lack of follow-through.
+
+[Shield]
+Strategy: Protect, contain, and guard values or people.
+Core Drive: Safety, especially under threat.
+Strength: Loyalty, emotional grounding, principled defense.
+Shadow: Overdefensiveness, control, aversion to change.
+
+[Seeker]
+Strategy: Pursue newness, inner truth, or spiritual freedom.
+Core Drive: Authenticity beyond convention.
+Strength: Vision, honesty, openness to change.
+Shadow: Escapism, refusal to commit, directionless wandering.
+
+[Spark]
+Strategy: Lead or ignite through sheer presence and intensity.
+Core Drive: Passion as movement.
+Strength: Motivation, charisma, boldness.
+Shadow: Burnout, volatility, performative identity.
+
+[Hollow]
+Strategy: Disengage from narrative, identity, or action.
+Core Drive: Freedom from obligation and performance.
+Strength: Clarity without entanglement, immunity to pressure.
+Shadow: Nihilism, chronic detachment, loss of meaning.
+
+---
+
+MODE DESCRIPTIONS
+
+[Flourishing]
+You are aligned — your strategy fits your current reality. There’s flow, clarity, and responsiveness. You’re not without challenge, but you move through life with coherence.
+
+[Transforming]
+You are changing — letting go of old structures, experimenting with new ones. It may feel uncertain or chaotic, but it’s also fertile and alive.
+
+[Overextended]
+You are locked into one strategy too tightly, trying to solve every problem the same way. You may feel exhausted, pressured, or stuck in loops.
+
+[Fragmented]
+You’re switching between multiple strategies without stability. You may feel incoherent, performative, or unsure of who you are in different spaces.
+
+[Camouflaged]
+You’re acting like a different archetype because you feel you must. There’s a mismatch between your core self and your context. Others may not know the real you.
+
+[Suppressed]
+Your strategy is offline — pushed down, denied, or numbed. This often emerges after trauma, burnout, or extended disempowerment. Reconnection will take time.
