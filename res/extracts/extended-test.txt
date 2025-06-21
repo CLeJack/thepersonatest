@@ -1,4 +1,4 @@
-PHASE 1: SITUATIONAL DILEMMAS
+PHASE 1: situational_dilemmas
 Q1. You’re placed in charge of a failing community project. What do you do first?
 - [Architect] Assess the current system’s weaknesses and begin fixing it.
 - [Herald] Share the truth of the situation as widely as possible to prompt urgency.
@@ -71,7 +71,7 @@ Q6. You discover a truth that could destabilize something important. What do you
 - [Spark] Turn it into a rallying cry for change.
 - [Hollow] Keep it to yourself. Let the truth be your own silence.
 
-PHASE 2: IDENTITY REFLECTION
+PHASE 2: identity_reflection
 Q1. In a group, you tend to:
 - [Architect] Build systems or processes to help things run smoothly.
 - [Herald] Identify what no one else is saying and bring it to light.
@@ -144,7 +144,7 @@ Q6. What kind of attention do you prefer?
 - [Spark] Excitement — you like leaving people charged.
 - [Hollow] Absence — attention distorts everything.
 
-PHASE 3: MODE DETECTION
+PHASE 3: mode_detection
 Q7. I feel like I’m actively outgrowing older versions of myself.|Transforming
 Q8. I feel like I’m living out someone else’s expectations, not my own.|Camouflaged
 Q9. I feel scattered — like I’m playing different roles in different contexts without a center.|Fragmented
