@@ -1,0 +1,7 @@
+    <strong class="question-number">Q{{item.id}}</strong>
+    <p class="question">{{item.question}}</p>
+    <form style="display: block" ></form>
+    {% for content in item['answers'] %}
+        <input type="radio" id="{{content.category}}" name="p1-{{item.id}}" value="{{content.category}}">
+        <label for="{{content.category}}">{{content.val}}</label><br>
+    {% endfor %}
