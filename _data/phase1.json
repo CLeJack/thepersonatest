@@ -1,1 +1,341 @@
-{"title": "situational_dilemmas", "items": [{"id": 0, "question": "You\u2019re placed in charge of a failing community project. What do you do first?", "answers": [{"id": 0, "category": "Architect", "val": "Assess the current system\u2019s weaknesses and begin fixing it."}, {"id": 1, "category": "Herald", "val": "Share the truth of the situation as widely as possible to prompt urgency."}, {"id": 2, "category": "Keeper", "val": "Reaffirm the original mission and remind people why this mattered."}, {"id": 3, "category": "Shield", "val": "Protect the group from blame and outside pressure."}, {"id": 4, "category": "Synthesizer", "val": "Mediate the different voices to understand what\u2019s really going wrong."}, {"id": 5, "category": "Trickster", "val": "Introduce a jarring shift to break stagnation and expose blind spots."}, {"id": 6, "category": "Weaver", "val": "Rebuild trust and connection before addressing logistics."}, {"id": 7, "category": "Seeker", "val": "Suggest stepping away entirely to find a better path elsewhere."}, {"id": 8, "category": "Spark", "val": "Deliver a passionate call to action to reignite purpose."}, {"id": 9, "category": "Hollow", "val": "Observe quietly and avoid getting entangled unless absolutely necessary."}]}, {"id": 1, "question": "You\u2019re given a powerful tool with no instructions. What do you do?", "answers": [{"id": 0, "category": "Architect", "val": "Deconstruct it to reverse-engineer its function."}, {"id": 1, "category": "Herald", "val": "Announce its discovery and speculate publicly about its use."}, {"id": 2, "category": "Keeper", "val": "Compare it to traditional models or historical examples."}, {"id": 3, "category": "Shield", "val": "Safeguard it \u2014 its misuse might be dangerous."}, {"id": 4, "category": "Synthesizer", "val": "Cross-reference it with other tools or ideas you've seen."}, {"id": 5, "category": "Trickster", "val": "Try something unexpected to see how it reacts."}, {"id": 6, "category": "Weaver", "val": "Ask others how it makes them feel and what they imagine it could do."}, {"id": 7, "category": "Seeker", "val": "Use it impulsively \u2014 the only way to learn is to act."}, {"id": 8, "category": "Spark", "val": "Use it to provoke excitement and momentum."}, {"id": 9, "category": "Hollow", "val": "Set it aside \u2014 not everything needs to be used."}]}, {"id": 2, "question": "A person close to you has started to change in ways you don\u2019t understand. How do you react?", "answers": [{"id": 0, "category": "Architect", "val": "Try to analyze the changes rationally and quietly."}, {"id": 1, "category": "Herald", "val": "Speak to them openly \u2014 they need to hear how this affects others."}, {"id": 2, "category": "Keeper", "val": "Reference the values or history you\u2019ve shared to reconnect."}, {"id": 3, "category": "Shield", "val": "Stay close and offer protection, even without understanding."}, {"id": 4, "category": "Synthesizer", "val": "Try to see their changes as part of a bigger pattern."}, {"id": 5, "category": "Trickster", "val": "Challenge their assumptions to spark honest discussion."}, {"id": 6, "category": "Weaver", "val": "Show up emotionally and support them where they are."}, {"id": 7, "category": "Seeker", "val": "Respect their transformation and let them evolve freely."}, {"id": 8, "category": "Spark", "val": "Respond with passion \u2014 connection is meant to be intense."}, {"id": 9, "category": "Hollow", "val": "Withdraw. People change. You don\u2019t need to follow."}]}, {"id": 3, "question": "You\u2019re invited into a high-stakes collaboration with unclear power dynamics. How do you approach it?", "answers": [{"id": 0, "category": "Architect", "val": "Define clear roles and responsibilities early on."}, {"id": 1, "category": "Herald", "val": "Ask direct questions to clarify what others may avoid saying."}, {"id": 2, "category": "Keeper", "val": "Honor legacy structures and let them guide your behavior."}, {"id": 3, "category": "Shield", "val": "Stay alert for signs of harm or unfair treatment and step in if needed."}, {"id": 4, "category": "Synthesizer", "val": "Study the people involved and find the common thread."}, {"id": 5, "category": "Trickster", "val": "Challenge assumptions subtly to test people\u2019s honesty."}, {"id": 6, "category": "Weaver", "val": "Build trust through one-on-one connections before committing."}, {"id": 7, "category": "Seeker", "val": "Use it as a chance to explore, not control."}, {"id": 8, "category": "Spark", "val": "Assert yourself boldly \u2014 your energy is your leverage."}, {"id": 9, "category": "Hollow", "val": "Remain on the fringe, involved but not invested."}]}, {"id": 4, "question": "A group you're in is spiraling into chaos. What's your natural response?", "answers": [{"id": 0, "category": "Architect", "val": "Quietly restructure everything \u2014 clarity will stabilize it."}, {"id": 1, "category": "Herald", "val": "Speak openly to cut through confusion."}, {"id": 2, "category": "Keeper", "val": "Remind the group of its purpose and original agreements."}, {"id": 3, "category": "Shield", "val": "Focus on grounding and protecting individuals who are overwhelmed."}, {"id": 4, "category": "Synthesizer", "val": "Map the chaos \u2014 there's a pattern inside it."}, {"id": 5, "category": "Trickster", "val": "Amplify the chaos briefly to show what\u2019s broken."}, {"id": 6, "category": "Weaver", "val": "Soothe tensions and rebuild emotional safety."}, {"id": 7, "category": "Seeker", "val": "Let the group fall \u2014 maybe it\u2019s not meant to survive."}, {"id": 8, "category": "Spark", "val": "Take charge through sheer presence and intensity."}, {"id": 9, "category": "Hollow", "val": "Detach. Chaos isn\u2019t your responsibility."}]}, {"id": 5, "question": "You discover a truth that could destabilize something important. What do you do?", "answers": [{"id": 0, "category": "Architect", "val": "Weigh the consequences before acting."}, {"id": 1, "category": "Herald", "val": "Share it \u2014 people deserve to know, even if it shakes things."}, {"id": 2, "category": "Keeper", "val": "Preserve the system; not all truths need telling."}, {"id": 3, "category": "Shield", "val": "Reveal it only if someone\u2019s safety depends on it."}, {"id": 4, "category": "Synthesizer", "val": "Frame the truth carefully to integrate it without collapse."}, {"id": 5, "category": "Trickster", "val": "Leak it in a way that forces others to confront it."}, {"id": 6, "category": "Weaver", "val": "Tell those affected directly and support them through it."}, {"id": 7, "category": "Seeker", "val": "Take the truth and walk \u2014 you don\u2019t owe anyone a fight."}, {"id": 8, "category": "Spark", "val": "Turn it into a rallying cry for change."}, {"id": 9, "category": "Hollow", "val": "Keep it to yourself. Let the truth be your own silence."}]}]}
+{
+	"title": "situational_dilemmas",
+	"items": [
+		{
+			"id": 1,
+			"prompt": "You\u2019re placed in charge of a failing community project. What do you do first?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Assess the current system\u2019s weaknesses and begin fixing it."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Share the truth of the situation as widely as possible to prompt urgency."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Reaffirm the original mission and remind people why this mattered."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Protect the group from blame and outside pressure."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Mediate the different voices to understand what\u2019s really going wrong."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Introduce a jarring shift to break stagnation and expose blind spots."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Rebuild trust and connection before addressing logistics."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Suggest stepping away entirely to find a better path elsewhere."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Deliver a passionate call to action to reignite purpose."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Observe quietly and avoid getting entangled unless absolutely necessary."
+				}
+			]
+		},
+		{
+			"id": 2,
+			"prompt": "You\u2019re given a powerful tool with no instructions. What do you do?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Deconstruct it to reverse-engineer its function."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Announce its discovery and speculate publicly about its use."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Compare it to traditional models or historical examples."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Safeguard it \u2014 its misuse might be dangerous."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Cross-reference it with other tools or ideas you've seen."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Try something unexpected to see how it reacts."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Ask others how it makes them feel and what they imagine it could do."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Use it impulsively \u2014 the only way to learn is to act."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Use it to provoke excitement and momentum."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Set it aside \u2014 not everything needs to be used."
+				}
+			]
+		},
+		{
+			"id": 3,
+			"prompt": "A person close to you has started to change in ways you don\u2019t understand. How do you react?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Try to analyze the changes rationally and quietly."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Speak to them openly \u2014 they need to hear how this affects others."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Reference the values or history you\u2019ve shared to reconnect."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Stay close and offer protection, even without understanding."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Try to see their changes as part of a bigger pattern."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Challenge their assumptions to spark honest discussion."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Show up emotionally and support them where they are."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Respect their transformation and let them evolve freely."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Respond with passion \u2014 connection is meant to be intense."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Withdraw. People change. You don\u2019t need to follow."
+				}
+			]
+		},
+		{
+			"id": 4,
+			"prompt": "You\u2019re invited into a high-stakes collaboration with unclear power dynamics. How do you approach it?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Define clear roles and responsibilities early on."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Ask direct questions to clarify what others may avoid saying."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Honor legacy structures and let them guide your behavior."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Stay alert for signs of harm or unfair treatment and step in if needed."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Study the people involved and find the common thread."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Challenge assumptions subtly to test people\u2019s honesty."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Build trust through one-on-one connections before committing."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Use it as a chance to explore, not control."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Assert yourself boldly \u2014 your energy is your leverage."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Remain on the fringe, involved but not invested."
+				}
+			]
+		},
+		{
+			"id": 5,
+			"prompt": "A group you're in is spiraling into chaos. What's your natural response?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Quietly restructure everything \u2014 clarity will stabilize it."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Speak openly to cut through confusion."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Remind the group of its purpose and original agreements."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Focus on grounding and protecting individuals who are overwhelmed."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Map the chaos \u2014 there's a pattern inside it."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Amplify the chaos briefly to show what\u2019s broken."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Soothe tensions and rebuild emotional safety."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Let the group fall \u2014 maybe it\u2019s not meant to survive."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Take charge through sheer presence and intensity."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Detach. Chaos isn\u2019t your responsibility."
+				}
+			]
+		},
+		{
+			"id": 6,
+			"prompt": "You discover a truth that could destabilize something important. What do you do?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Weigh the consequences before acting."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Share it \u2014 people deserve to know, even if it shakes things."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Preserve the system; not all truths need telling."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Reveal it only if someone\u2019s safety depends on it."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Frame the truth carefully to integrate it without collapse."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Leak it in a way that forces others to confront it."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Tell those affected directly and support them through it."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Take the truth and walk \u2014 you don\u2019t owe anyone a fight."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Turn it into a rallying cry for change."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Keep it to yourself. Let the truth be your own silence."
+				}
+			]
+		}
+	]
+}

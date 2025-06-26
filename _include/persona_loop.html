@@ -1,10 +1,12 @@
-<h2>Situational Dilemmas</h2>
-{% for item in phase1.items %}
-{% include './_include/persona_form.html' %}
-{% endfor %}
-
-<h2>Identity Reflection</h2>
-
-{% for item in phase2.items %}
-{% include './_include/persona_form.html' %}
-{% endfor %}
+<section id="quiz">
+    <h2>The Persona Test</h2>
+    {% for item in phase1.items %}
+    {% include './_include/persona_form.html' %}
+    {% endfor %}
+    {% for item in phase2.items %}
+    {% include './_include/persona_form.html' %}
+    {% endfor %}
+    {% for item in phase3.items %}
+    {% include './_include/persona_form.html' %}
+    {% endfor %}
+</section>

@@ -1,7 +1,12 @@
-    <strong class="question-number">Q{{item.id}}</strong>
-    <p class="question">{{item.question}}</p>
+    <!-- note the item id condition set for active--this will cause issues if not set properly -->
+    <section class="quiz-content{% if item.id == 1 %} active{% endif %}">
+    <p class="prompt">{{item.prompt}}</p>
     <form style="display: block" ></form>
-    {% for content in item['answers'] %}
+    {% for content in item['responses'] %}
         <input type="radio" id="{{content.category}}" name="p1-{{item.id}}" value="{{content.category}}">
-        <label for="{{content.category}}">{{content.val}}</label><br>
+        <label for="{{content.category}}" class="reponse">{{content.val}}</label><br>
+        
     {% endfor %}
+    <br>
+    <button type="button" class="next">Next</button>
+    </section>

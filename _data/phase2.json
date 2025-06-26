@@ -1,1 +1,341 @@
-{"title": "identity_reflection", "items": [{"id": 0, "question": "In a group, you tend to:", "answers": [{"id": 0, "category": "Architect", "val": "Build systems or processes to help things run smoothly."}, {"id": 1, "category": "Herald", "val": "Identify what no one else is saying and bring it to light."}, {"id": 2, "category": "Keeper", "val": "Preserve group traditions or shared identity."}, {"id": 3, "category": "Shield", "val": "Take care of those who are struggling or vulnerable."}, {"id": 4, "category": "Synthesizer", "val": "Seek to resolve disagreements by revealing hidden common ground."}, {"id": 5, "category": "Trickster", "val": "Subvert groupthink by asking uncomfortable questions."}, {"id": 6, "category": "Weaver", "val": "Strengthen bonds and help people feel seen."}, {"id": 7, "category": "Seeker", "val": "Drift to the edges, always halfway out the door."}, {"id": 8, "category": "Spark", "val": "Inject energy, enthusiasm, or charisma to keep things moving."}, {"id": 9, "category": "Hollow", "val": "Remain silent, curious if the group will notice your absence."}]}, {"id": 1, "question": "What\u2019s your ideal role in creating change?", "answers": [{"id": 0, "category": "Architect", "val": "Designing sustainable, long-term systems."}, {"id": 1, "category": "Herald", "val": "Sparking awareness and sharing uncomfortable truths."}, {"id": 2, "category": "Keeper", "val": "Restoring core values that have been lost."}, {"id": 3, "category": "Shield", "val": "Protecting what matters while others push ahead."}, {"id": 4, "category": "Synthesizer", "val": "Harmonizing competing visions into something coherent."}, {"id": 5, "category": "Trickster", "val": "Disrupting stagnation \u2014 even if it causes chaos."}, {"id": 6, "category": "Weaver", "val": "Building relational trust between diverse people."}, {"id": 7, "category": "Seeker", "val": "Rejecting the system entirely and finding new ground."}, {"id": 8, "category": "Spark", "val": "Motivating others through sheer force of passion."}, {"id": 9, "category": "Hollow", "val": "Avoiding involvement. Change can be a trap."}]}, {"id": 2, "question": "What truth do you most live by?", "answers": [{"id": 0, "category": "Architect", "val": "Order creates freedom."}, {"id": 1, "category": "Herald", "val": "Speak what others are afraid to name."}, {"id": 2, "category": "Keeper", "val": "The past holds sacred knowledge."}, {"id": 3, "category": "Shield", "val": "Safety is the precondition for growth."}, {"id": 4, "category": "Synthesizer", "val": "Meaning lives in the overlaps."}, {"id": 5, "category": "Trickster", "val": "Nothing sacred survives scrutiny."}, {"id": 6, "category": "Weaver", "val": "People heal in relationship."}, {"id": 7, "category": "Seeker", "val": "Truth lives outside the map."}, {"id": 8, "category": "Spark", "val": "Feeling is more honest than logic."}, {"id": 9, "category": "Hollow", "val": "Life just is \u2014 no narrative required."}]}, {"id": 3, "question": "When you're at your best, what defines your presence?", "answers": [{"id": 0, "category": "Architect", "val": "Structured thinking and calm execution."}, {"id": 1, "category": "Herald", "val": "Insightful disruption \u2014 you name what others fear."}, {"id": 2, "category": "Keeper", "val": "Consistency and honor \u2014 people can rely on you."}, {"id": 3, "category": "Shield", "val": "Steadiness \u2014 others feel safer when you're there."}, {"id": 4, "category": "Synthesizer", "val": "You create bridges where others see walls."}, {"id": 5, "category": "Trickster", "val": "A creative tension that keeps people awake."}, {"id": 6, "category": "Weaver", "val": "Gentle cohesion \u2014 you make people feel whole."}, {"id": 7, "category": "Seeker", "val": "Restlessness \u2014 you're the horizon in human form."}, {"id": 8, "category": "Spark", "val": "Intensity \u2014 your passion sets things alight."}, {"id": 9, "category": "Hollow", "val": "Emptiness \u2014 not absence, but freedom from needing to perform."}]}, {"id": 4, "question": "What\u2019s your relationship to rules?", "answers": [{"id": 0, "category": "Architect", "val": "Rules are tools \u2014 you refine them as needed."}, {"id": 1, "category": "Herald", "val": "Rules exist to be challenged if they obscure the truth."}, {"id": 2, "category": "Keeper", "val": "Rules embody hard-earned wisdom \u2014 they deserve respect."}, {"id": 3, "category": "Shield", "val": "Rules are protection \u2014 they keep the weak from harm."}, {"id": 4, "category": "Synthesizer", "val": "Rules are lenses \u2014 not fixed, but not meaningless either."}, {"id": 5, "category": "Trickster", "val": "Rules are illusions \u2014 their cracks show where to begin."}, {"id": 6, "category": "Weaver", "val": "Rules matter if they hold people together \u2014 not otherwise."}, {"id": 7, "category": "Seeker", "val": "Rules are cages \u2014 you move best when they break."}, {"id": 8, "category": "Spark", "val": "Rules are kindling \u2014 burn them for momentum."}, {"id": 9, "category": "Hollow", "val": "Rules are stories other people tell."}]}, {"id": 5, "question": "What kind of attention do you prefer?", "answers": [{"id": 0, "category": "Architect", "val": "Quiet recognition for long-term impact."}, {"id": 1, "category": "Herald", "val": "Engagement \u2014 you want people to wrestle with what you say."}, {"id": 2, "category": "Keeper", "val": "Respect for your constancy and integrity."}, {"id": 3, "category": "Shield", "val": "None, ideally \u2014 let your actions speak."}, {"id": 4, "category": "Synthesizer", "val": "Thoughtful curiosity \u2014 attention that sees the whole."}, {"id": 5, "category": "Trickster", "val": "Tension \u2014 you like people a little off-balance."}, {"id": 6, "category": "Weaver", "val": "Emotional openness \u2014 you want to be felt, not just seen."}, {"id": 7, "category": "Seeker", "val": "Distance \u2014 attention should never cling."}, {"id": 8, "category": "Spark", "val": "Excitement \u2014 you like leaving people charged."}, {"id": 9, "category": "Hollow", "val": "Absence \u2014 attention distorts everything."}]}]}
+{
+	"title": "identity_reflection",
+	"items": [
+		{
+			"id": 7,
+			"prompt": "In a group, you tend to:",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Build systems or processes to help things run smoothly."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Identify what no one else is saying and bring it to light."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Preserve group traditions or shared identity."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Take care of those who are struggling or vulnerable."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Seek to resolve disagreements by revealing hidden common ground."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Subvert groupthink by asking uncomfortable questions."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Strengthen bonds and help people feel seen."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Drift to the edges, always halfway out the door."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Inject energy, enthusiasm, or charisma to keep things moving."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Remain silent, curious if the group will notice your absence."
+				}
+			]
+		},
+		{
+			"id": 8,
+			"prompt": "What\u2019s your ideal role in creating change?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Designing sustainable, long-term systems."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Sparking awareness and sharing uncomfortable truths."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Restoring core values that have been lost."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Protecting what matters while others push ahead."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Harmonizing competing visions into something coherent."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Disrupting stagnation \u2014 even if it causes chaos."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Building relational trust between diverse people."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Rejecting the system entirely and finding new ground."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Motivating others through sheer force of passion."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Avoiding involvement. Change can be a trap."
+				}
+			]
+		},
+		{
+			"id": 9,
+			"prompt": "What truth do you most live by?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Order creates freedom."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Speak what others are afraid to name."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "The past holds sacred knowledge."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Safety is the precondition for growth."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Meaning lives in the overlaps."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Nothing sacred survives scrutiny."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "People heal in relationship."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Truth lives outside the map."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Feeling is more honest than logic."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Life just is \u2014 no narrative required."
+				}
+			]
+		},
+		{
+			"id": 10,
+			"prompt": "When you're at your best, what defines your presence?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Structured thinking and calm execution."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Insightful disruption \u2014 you name what others fear."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Consistency and honor \u2014 people can rely on you."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Steadiness \u2014 others feel safer when you're there."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "You create bridges where others see walls."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "A creative tension that keeps people awake."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Gentle cohesion \u2014 you make people feel whole."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Restlessness \u2014 you're the horizon in human form."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Intensity \u2014 your passion sets things alight."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Emptiness \u2014 not absence, but freedom from needing to perform."
+				}
+			]
+		},
+		{
+			"id": 11,
+			"prompt": "What\u2019s your relationship to rules?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Rules are tools \u2014 you refine them as needed."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Rules exist to be challenged if they obscure the truth."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Rules embody hard-earned wisdom \u2014 they deserve respect."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "Rules are protection \u2014 they keep the weak from harm."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Rules are lenses \u2014 not fixed, but not meaningless either."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Rules are illusions \u2014 their cracks show where to begin."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Rules matter if they hold people together \u2014 not otherwise."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Rules are cages \u2014 you move best when they break."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Rules are kindling \u2014 burn them for momentum."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Rules are stories other people tell."
+				}
+			]
+		},
+		{
+			"id": 12,
+			"prompt": "What kind of attention do you prefer?",
+			"responses": [
+				{
+					"id": 0,
+					"category": "Architect",
+					"val": "Quiet recognition for long-term impact."
+				},
+				{
+					"id": 1,
+					"category": "Herald",
+					"val": "Engagement \u2014 you want people to wrestle with what you say."
+				},
+				{
+					"id": 2,
+					"category": "Keeper",
+					"val": "Respect for your constancy and integrity."
+				},
+				{
+					"id": 3,
+					"category": "Shield",
+					"val": "None, ideally \u2014 let your actions speak."
+				},
+				{
+					"id": 4,
+					"category": "Synthesizer",
+					"val": "Thoughtful curiosity \u2014 attention that sees the whole."
+				},
+				{
+					"id": 5,
+					"category": "Trickster",
+					"val": "Tension \u2014 you like people a little off-balance."
+				},
+				{
+					"id": 6,
+					"category": "Weaver",
+					"val": "Emotional openness \u2014 you want to be felt, not just seen."
+				},
+				{
+					"id": 7,
+					"category": "Seeker",
+					"val": "Distance \u2014 attention should never cling."
+				},
+				{
+					"id": 8,
+					"category": "Spark",
+					"val": "Excitement \u2014 you like leaving people charged."
+				},
+				{
+					"id": 9,
+					"category": "Hollow",
+					"val": "Absence \u2014 attention distorts everything."
+				}
+			]
+		}
+	]
+}
